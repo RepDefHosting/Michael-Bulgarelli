@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Chandler Villacruz
-jobTitle: Senior Marketing Executive
-location: San Francisco, California, USA
+name: Michael Bulgarelli
+jobTitle: Organization Leader
+location: Naples, FL, USA
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Chandler Villacruz
-siteUrl: https://mpdsbuild.netlify.app/
+  src: /img/michael-bulgarelli-8.jpeg
+  alt: Michael Bulgarelli
+siteUrl: https://www.michaelbulgarelli.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
-    url: https://www.facebook.com
+    url: https://www.facebook.com/michael.bulgarelli
     label: Visit
     show: true
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/michaelbulgarelli
     label: Visit
     show: true
   pinterest:

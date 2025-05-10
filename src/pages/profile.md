@@ -67,3 +67,5 @@ Based in Naples, Florida, [Michael Bulgarelli](https://www.flickr.com/photos/202
 As a leader in the professional employer organization industry, Michael Bulgarelli has dedicated himself to maintaining a strong culture of service at CoStaff Services. This has resulted in the company providing both employee benefits-only services and a full suite of human resources support. The business has utilized a state-of-the-art HRIS platform, which enables clients to attract and retain quality employees more effectively.
 
 [Michael Bulgarelli](https://medium.com/@michaelbulgarelli/about) received his business degree from Michigan State University. In addition to his professional responsibilities, he enjoys staying active by playing golf, bowling, and boating. He also engages with professional organizations, such as the National Association of Professional Employer Organizations and the American Payroll Association, as well as community groups, including the La Playa Beach Club and the Detroit Athletic Club.
+
+![Summer boating](/img/michael-bulgarelli-summer-boating.jpg "Michael Bulgarelli Summer boating ")

@@ -35,3 +35,5 @@ schemaType: WebPage
 showRecentPosts: false
 ---
 Based in Naples, Florida, Michael Bulgarelli founded Southfield, Michigan’s CoStaff Services, LLC, in July of 2000. Michael Bulgarelli continues to drive business operations as the company founder and president. Under his leadership, the company has expanded from a small startup business to an employee services provider responsible for managing thousands of employees.
+
+![Based in Naples, Florida, Michael Bulgarelli](/img/based-in-naples-florida-michael-bulgarelli.jpg)
